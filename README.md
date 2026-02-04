@@ -34,11 +34,11 @@ problemas reais de negócio.
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Lalrak&show_icons=true&theme=dracula&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lalrak&show_icons=true&theme=dracula&hide_border=true"
     height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalrak&layout=compact&theme=dracula&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lalrak&layout=compact&theme=dracula&hide_border=true"
     height="160"
   />
 </div>
